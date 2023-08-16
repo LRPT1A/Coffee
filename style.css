@@ -55,6 +55,11 @@ background-color: var(--vermelho);
   border: 2px solid var(--branco-principal);
   color: var(--rosa-bah);
 }
+.botao_secundarioo {
+  background-color: transparent;
+  border: 2px solid var(--branco-principal);
+  color: var(--rosa-bah);
+}
 
 .container__aviso {
   font-size: 12px;
